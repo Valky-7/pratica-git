@@ -1,1 +1,4 @@
-git init, git add, git commit
+git init - Inicializa um novo repositório Git 
+git add - Adiciona arquivos para a área de staging
+git commit - Salva as mudanças no histórico do repositório
+
